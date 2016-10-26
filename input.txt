@@ -1,15 +1,4 @@
 3
-Sidorov
-Sidor
-10A
-20.07.93
-Petrov
-Petr
-11B
-23.10.92
-Ivanov
-Ivan
-10A
-10.04.93
-
-
+Markov Valeriy 1 1 1
+Sergey Petrov 1 1 1
+Petrov Petr 3 3 3
